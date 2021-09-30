@@ -14,3 +14,4 @@ Atualmente sigo estudando as seguintes tecnologias:
 ![React Badge](https://img.shields.io/badge/-ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Styled Components Badge](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)

@@ -7,11 +7,11 @@ Apaixonado e focado no mercado de tecnologia, estudando as melhores formas de so
 
 Atualmente sigo estudando as seguintes tecnologias:
 
-![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io/badge/-ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Styled Components Badge](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-20232A?style=flat-square&logo=html5)
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-20232A?style=flat-square&logo=javascript)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-20232A?style=flat-square&logo=typescript)
+![React Badge](https://img.shields.io/badge/-ReactJS-20232A?style=flat-square&logo=react)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=next.js)
+![SASS Badge](https://img.shields.io/badge/-Sass-20232A?style=flat-square&logo=sass)
+![Styled Components Badge](https://img.shields.io/badge/-Styled_Components-20232A?style=flat-square&logo=styled-components)

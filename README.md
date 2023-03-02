@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Lousada-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslousada/)](https://www.linkedin.com/in/lucaslousada/) 
 [![Outlook Badge](https://img.shields.io/badge/-lucas__lousada@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:lucas_lousada@outlook.com)](mailto:lucas_lousada@outlook.com)
 
-Olá, eu sou o Lucas. Estudo programação a quase 2 anos com foco no front-end. Atualmente, estou imerso no ecossistema Javascript e tenho projetos em ReactJS e toda sua parte ferramental, mas estou sempre aberto a aprender coisas novas. Meu objetivo é alcançar uma vaga como desenvolvedor front-end júnior.
+Olá, meu nome é Lucas. Estou estudando programação com foco em front-end. Atualmente, estou imerso no ecossistema Javascript e tenho trabalhado em projetos com ReactJS, mas sempre estou disposto a aprender coisas novas. Meu objetivo é alcançar uma posição como desenvolvedor front-end júnior.
 
 #### Tecnologias que eu uso:
 

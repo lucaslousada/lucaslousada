@@ -3,26 +3,29 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Lousada-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslousada/)](https://www.linkedin.com/in/lucaslousada/) 
 [![Outlook Badge](https://img.shields.io/badge/-lucas__lousada@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:lucas_lousada@outlook.com)](mailto:lucas_lousada@outlook.com)
 
-Olá, meu nome é Lucas. Estou estudando programação com foco em front-end. Atualmente, estou imerso no ecossistema Javascript e tenho trabalhado em projetos com ReactJS, mas sempre estou disposto a aprender coisas novas.
+Profissional focado na área de tecnologia, atualmente graduando em Análise e Desenvolvimento de Sistemas. Tenho o objetivo de atuar como Desenvolvedor Front End, tendo experiência nas principais tecnologias do mercado, como ReactJS, Typescript, Next.js, entre outras.
 
-Sou formado como Técnico em informática, trabalho na área e estou cursando Analise e desenvolvimento de sistemas.
+Estou sempre em busca de evolução e aberto para novas oportunidades de aprendizado. Além do meu foco no front-end, também dedico tempo para estudar tecnologias voltadas para o Back End.
 
-Meu objetivo é alcançar uma posição como desenvolvedor front-end júnior.
+Tenho o compromisso de me manter atualizado com as tendências do mercado de tecnologia, a fim de oferecer soluções inovadoras e eficientes. Estou sempre pronto para solucionar problemas e trabalhar em equipe.
 
 #### Tecnologias que eu uso:
 
-![HTML5 Badge](https://img.shields.io/badge/-HTML5-20232A?style=flat-square&logo=html5)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-20232A?style=flat-square&logo=javascript)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-20232A?style=flat-square&logo=typescript)
-![React Badge](https://img.shields.io/badge/-ReactJS-20232A?style=flat-square&logo=react)
-![SASS Badge](https://img.shields.io/badge/-Sass-20232A?style=flat-square&logo=sass)
-![Styled Components Badge](https://img.shields.io/badge/-Styled_Components-20232A?style=flat-square&logo=styled-components)
-![Git Badge](https://img.shields.io/badge/-Git-20232A?style=flat-square&logo=git)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-20232A?style=flat-square&logo=typescript&logoColor=007ACC)
+![React Badge](https://img.shields.io/badge/-ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SASS Badge](https://img.shields.io/badge/-Sass-20232A?style=flat-square&logo=sass&logoColor=CC6699)
+![Styled Components Badge](https://img.shields.io/badge/-Styled_Components-20232A?style=flat-square&logo=styled-components&logoColor=DB7093)
+![Git Badge](https://img.shields.io/badge/-Git-20232A?style=flat-square&logo=git&logoColor=E44C30)
+![Vite Badge](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=FFD62E)
 
 #### Tecnologias que pretendo conhecer:
 
-![Next.js Badge](https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=next.js)
+![Node.js Badge](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=339933)
+![SQLite Badge](https://img.shields.io/badge/SQLite-20232A?style=flat-square&logo=sqlite&logoColor=07405E)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=next.js&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/-Redux-20232A?style=flat-square&logo=redux&logoColor=764ABC)
 ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-20232A?style=flat-square&logo=graphql&logoColor=E00097)
-![Electron Badge](https://img.shields.io/badge/-Electron-20232A?style=flat-square&logo=electron)
+![Electron Badge](https://img.shields.io/badge/-Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9)

@@ -20,11 +20,13 @@ Tenho o compromisso de me manter atualizado com as tendências do mercado de tec
 ![Styled Components Badge](https://img.shields.io/badge/-Styled_Components-20232A?style=flat-square&logo=styled-components&logoColor=DB7093)
 ![Git Badge](https://img.shields.io/badge/-Git-20232A?style=flat-square&logo=git&logoColor=E44C30)
 ![Vite Badge](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=FFD62E)
+![C Sharp Badge](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=c-sharp&logoColor=239120)
+![Dot Net Badge](https://img.shields.io/badge/.NET-20232A?style=flat-square&logo=dotnet&logoColor=512BD4)
+![SQLite Badge](https://img.shields.io/badge/SQLite-20232A?style=flat-square&logo=sqlite&logoColor=07405E)
 
 #### Tecnologias que pretendo conhecer:
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=339933)
-![SQLite Badge](https://img.shields.io/badge/SQLite-20232A?style=flat-square&logo=sqlite&logoColor=07405E)
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=next.js&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/-Redux-20232A?style=flat-square&logo=redux&logoColor=764ABC)
 ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-20232A?style=flat-square&logo=graphql&logoColor=E00097)

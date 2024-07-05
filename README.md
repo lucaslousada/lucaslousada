@@ -5,7 +5,7 @@
 
 ## Olá 👋
 
-Me chamo Lucas, estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web. Bem-vindo ao meu perfil no GitHub!
+Me chamo Lucas Lousada, atualmente estou focado no desenvolvimento web e cursando Análise e Desenvolvimento de Sistemas. Seja bem-vindo ao meu perfil no GitHub!
 
 #### Tecnologias que eu uso:
 
@@ -13,13 +13,13 @@ Me chamo Lucas, estudante de Análise e Desenvolvimento de Sistemas com foco em 
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-20232A?style=flat-square&logo=typescript&logoColor=007ACC)
-![React JS Badge](https://img.shields.io/badge/-ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React JS Badge](https://img.shields.io/badge/-React.JS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native Badge](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SASS Badge](https://img.shields.io/badge/-Sass-20232A?style=flat-square&logo=sass&logoColor=CC6699)
 ![Styled Components Badge](https://img.shields.io/badge/-Styled_Components-20232A?style=flat-square&logo=styled-components&logoColor=DB7093)
 ![Git Badge](https://img.shields.io/badge/-Git-20232A?style=flat-square&logo=git&logoColor=E44C30)
 ![Vite Badge](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=FFD62E)
-![C Sharp Badge](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=c-sharp&logoColor=239120)
+![C Sharp Badge](https://img.shields.io/badge/C%23-20232A?style=flat-square&logo=csharp&logoColor=239120)
 ![Dot Net Badge](https://img.shields.io/badge/.NET-20232A?style=flat-square&logo=dotnet&logoColor=512BD4)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-20232A?style=flat-square&logo=sqlite&logoColor=07405E)
 

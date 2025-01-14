@@ -13,6 +13,7 @@ Me chamo Lucas Lousada, atualmente estou focado no desenvolvimento web e cursand
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-20232A?style=flat-square&logo=typescript&logoColor=007ACC)
+![Next.js Badge](https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=next.js&logoColor=white)
 ![React JS Badge](https://img.shields.io/badge/-React.JS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native Badge](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SASS Badge](https://img.shields.io/badge/-Sass-20232A?style=flat-square&logo=sass&logoColor=CC6699)
@@ -26,7 +27,6 @@ Me chamo Lucas Lousada, atualmente estou focado no desenvolvimento web e cursand
 #### Tecnologias que pretendo conhecer:
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-20232A?style=flat-square&logo=next.js&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/-Redux-20232A?style=flat-square&logo=redux&logoColor=764ABC)
 ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-20232A?style=flat-square&logo=graphql&logoColor=E00097)
 ![Electron Badge](https://img.shields.io/badge/-Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9)
